@@ -40,6 +40,7 @@ Most prominently I've started contributing to [Dioxus](https://github.com/Dioxus
 
 - [Dioxus](https://github.com/DioxusLabs/dioxus)
 - [Dioxus Logger](https://github.com/DogeDark/dioxus-logger)
+- [Dioxus-std](https://github.com/DioxusLabs/dioxus-std)
 - [Chip8 Emulator](https://github.com/DogeDark/Chip8)
 - [Rust LS](https://github.com/DogeDark/rust-ls)
 
