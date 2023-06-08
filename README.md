@@ -38,11 +38,11 @@ I know a lot of stuff! I've worked on web, game, and low level projects.
 I don't have many public projects to share, however I've done a big range of stuff from operating systems to large scale websites.
 Most prominently I've started contributing to [Dioxus](https://github.com/DioxusLabs/dioxus) and it's ecosystem.
 
-- [Dioxus](https://github.com/DioxusLabs/dioxus)
-- [Dioxus Logger](https://github.com/DogeDark/dioxus-logger)
-- [Dioxus-std](https://github.com/DioxusLabs/dioxus-std)
-- [Chip8 Emulator](https://github.com/DogeDark/Chip8)
-- [Rust LS](https://github.com/DogeDark/rust-ls)
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - Contributor
+- [Dioxus Logger](https://github.com/DogeDark/dioxus-logger) - Creator & maintainer
+- [Dioxus-std](https://github.com/DioxusLabs/dioxus-std) - Creator & maintainer
+- [Chip8 Emulator](https://github.com/DogeDark/Chip8) - Creator
+- [Rust LS](https://github.com/DogeDark/rust-ls) - Creator
 
 *An aerial photo of my city.*
 ![DJI_0679](https://user-images.githubusercontent.com/30190859/200228337-ea04e607-80b3-440c-b87d-adbf6668e45b.JPG)
