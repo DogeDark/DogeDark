@@ -13,37 +13,28 @@
 </div>
 
 
-### A little about me...
-I started software development in the 5th grade and got my first programming job at 14. 
-I've been programming for 6 years at the time of writing. As an aspiring entreprenuer, I have my own company called [Doge Industries](https://dogeindustries.com)
-which strives to *provide the world with accessible services and products.* One of my major goals with Doge Industries is to start an internet service provider that
-focuses on affordability. I have an interest in embedded systems and am currently learning electronics. I ocassionally create
-aerial videography as a hobby; you can find my work on my YouTube channel. I love to learn and come up with new ideas.
+### A Little About Me
+My name is Miles. I started software development almost 8 years ago and have worked primarily in web & game development with a current shift towards embedded systems. 
+I am an aviation enthusiast and love to take [aerial videography](https://www.youtube.com/channel/UCYHTnCVVwN8sWS_bwGMMytQ) and build/fly RC airplanes. I currently work at Dioxus Labs, helping to develop an awesome cross-platform Rust GUI framework.
+
 
 ### What skills do I have?
-I know a lot of stuff! I've worked on web, game, and low level projects.
+I've worked on a variety of projects and my skillset is always changing. Below is the list of what I'd consider myself good & up-to-date with.
 
-- Rust
-- HTML, CSS/SASS, JavaScript, NodeJS
-- Dioxus, React, discord.js
-- PostgreSQL, MongoDB
-- Roblox Game Development w/ Lua
-- AWS, Heroku, Digital Ocean, and deploying/upgrading systems with thousands of users.
-- Docker, Nginx, Linux Systems
-- Network Engineering
-- UI / UX Design
-- Project Management
+- Rust, HTML, CSS/SASS, Javascript
+- PostgreSQL, Docker 
+- UI/UX Design
 
 ### What have I worked on?
-I don't have many public projects to share, however I've done a big range of stuff from operating systems to large scale websites.
-Most prominently I've started contributing to [Dioxus](https://github.com/DioxusLabs/dioxus) and it's ecosystem.
+I don't have many public projects to share, however, I've done a wide range of stuff from operating systems to large-scale websites.
+Most prominently I've started contributing to [Dioxus](https://github.com/DioxusLabs/dioxus) and its ecosystem.
 
-- [Dioxus](https://github.com/DioxusLabs/dioxus) - Contributor
-- [Dioxus Logger](https://github.com/DogeDark/dioxus-logger) - Creator & maintainer
-- [Dioxus-std](https://github.com/DioxusLabs/dioxus-std) - Creator & maintainer
-- [myCPU](https://github.com/DogeDark/myCPU) - Create
-- [Chip8 Emulator](https://github.com/DogeDark/Chip8) - Creator
-- [Rust LS](https://github.com/DogeDark/rust-ls) - Creator
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - This is the project I work on at my job!
+- [Dioxus Logger](https://github.com/DogeDark/dioxus-logger) - My first open source project; now merged into Dioxus directly.
+- [Dioxus SDK](https://github.com/DioxusLabs/sdk) - A cross-platform SDK for the Dioxus project.
+- [myCPU](https://github.com/DogeDark/myCPU) - An experiment to emulate a custom CPU.
+- [Rust LS](https://github.com/DogeDark/rust-ls) - One of my first "finished" Rust projects.
+- [ft6x06-rs](https://github.com/DogeDark/ft6x06-rs) - An a/sync Rust driver for the FT6x06 capacitive touch screen.
 
-*An aerial photo of my city.*
-![DJI_0679](https://user-images.githubusercontent.com/30190859/200228337-ea04e607-80b3-440c-b87d-adbf6668e45b.JPG)
+![wow](https://github.com/user-attachments/assets/6eac51eb-6de0-4f40-ad11-55223169bd9b)
+
