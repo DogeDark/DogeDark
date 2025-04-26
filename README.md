@@ -14,27 +14,32 @@
 
 
 ### A Little About Me
-My name is Miles. I started software development almost 8 years ago and have worked primarily in web & game development with a current shift towards embedded systems. 
-I am an aviation enthusiast and love to take [aerial videography](https://www.youtube.com/channel/UCYHTnCVVwN8sWS_bwGMMytQ) and build/fly RC airplanes. I currently work at Dioxus Labs, helping to develop an awesome cross-platform Rust GUI framework.
+My name is Miles. I started software development 8 years ago and have worked primarily in web and game development with a current shift towards embedded systems. 
+I am an aviation enthusiast and love to take [aerial videography](https://www.youtube.com/channel/UCYHTnCVVwN8sWS_bwGMMytQ) and build/fly RC airplanes. I am currently preparing for college to earn a degree in computer engineering.
 
 
 ### What skills do I have?
-I've worked on a variety of projects and my skillset is always changing. Below is the list of what I'd consider myself good & up-to-date with.
+I've worked on a variety of projects, and my skill set is always changing. Below is the list of what I'd consider myself good & up-to-date with.
 
 - Rust, HTML, CSS/SASS, Javascript
 - PostgreSQL, Docker 
-- UI/UX Design
+- Basic UI/UX Design
 
 ### What have I worked on?
-I don't have many public projects to share, however, I've done a wide range of stuff from operating systems to large-scale websites.
-Most prominently I've started contributing to [Dioxus](https://github.com/DioxusLabs/dioxus) and its ecosystem.
+Most recently I had an internship at Dioxus Labs and helped build the awesome Rust UI framework called Dioxus. 
+I also have a few free-time projects with embedded systems, building a homebrew smartwatch (hardware, code, and all!). 
+This includes releasing a Rust-based open-source driver for the FT6X06 touch screen controller.
 
-- [Dioxus](https://github.com/DioxusLabs/dioxus) - This is the project I work on at my job!
+In my earlier career, I also worked on a liveops system for a game studio, which involved writing backend APIs, managing a database, and building a dashboard for live control over game systems.
+
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - My favorite project that I had the chance to intern at!
 - [Dioxus Logger](https://github.com/DogeDark/dioxus-logger) - My first open source project; now merged into Dioxus directly.
 - [Dioxus SDK](https://github.com/DioxusLabs/sdk) - A cross-platform SDK for the Dioxus project.
+- [ft6x06-rs](https://github.com/DogeDark/ft6x06-rs) - An a/sync Rust driver for the FT6x06 capacitive touch screen.
 - [myCPU](https://github.com/DogeDark/myCPU) - An experiment to emulate a custom CPU.
 - [Rust LS](https://github.com/DogeDark/rust-ls) - One of my first "finished" Rust projects.
-- [ft6x06-rs](https://github.com/DogeDark/ft6x06-rs) - An a/sync Rust driver for the FT6x06 capacitive touch screen.
+
+<br/>
 
 ![wow](https://github.com/user-attachments/assets/6eac51eb-6de0-4f40-ad11-55223169bd9b)
 
